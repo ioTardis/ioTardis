@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ioTardis
-- 🌱 I’m currently working on my Python skills
+- 🌱 I’m currently working on my JavaScript skills
 - 📫 [LinkedIn](https://www.linkedin.com/in/iagolovina/)
