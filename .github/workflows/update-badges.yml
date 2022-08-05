@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: credly.com/users/izabella-golovina
+          CREDLY_USER: izabella-golovina
