@@ -13,4 +13,5 @@
 ## My badges
 
 <!--START_SECTION:badges-->
+[![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/7e617ef0-75f4-498a-8435-64ebe6b63798 "AWS Educate Introduction to Cloud 101")
 <!--END_SECTION:badges-->
