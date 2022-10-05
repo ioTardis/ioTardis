@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ioTardis
-- 🌱 I’m currently working on my JavaScript skills
+- 🌱 I’m currently working on my JavaScript and AWS skills
 - 📫 [LinkedIn](https://www.linkedin.com/in/iagolovina/)
 
 ## Languages and Tools
