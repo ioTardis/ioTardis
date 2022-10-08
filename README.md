@@ -13,6 +13,7 @@
 ## My badges
 
 <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/cd434061-e848-410f-839f-0aa985934d2d "AWS Cloud Quest: Cloud Practitioner")
 [![AWS Learning: Object Storage](https://images.credly.com/size/110x110/images/06544cb3-dd5b-4406-8615-95ae3c884e14/image.png)](http://www.credly.com/badges/e00c178e-7458-4d15-9531-a2da22db4d4f "AWS Learning: Object Storage")
 [![AWS Educate Getting Started with Compute](https://images.credly.com/size/110x110/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png)](http://www.credly.com/badges/398acf00-dabe-49ff-a034-970fb7500cac "AWS Educate Getting Started with Compute")
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/f767cf4f-8f50-4501-b344-b6e765d53616 "AWS Educate Getting Started with Storage")
