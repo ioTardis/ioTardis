@@ -20,3 +20,5 @@
 [![AWS Educate Getting Started with Storage](https://images.credly.com/size/110x110/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png)](http://www.credly.com/badges/f767cf4f-8f50-4501-b344-b6e765d53616 "AWS Educate Getting Started with Storage")
 [![AWS Educate Introduction to Cloud 101](https://images.credly.com/size/110x110/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png)](http://www.credly.com/badges/7e617ef0-75f4-498a-8435-64ebe6b63798 "AWS Educate Introduction to Cloud 101")
 <!--END_SECTION:badges-->
+![AI Skills Challenge - badge - EN-US](https://github.com/ioTardis/ioTardis/assets/62325997/4e94e030-25c5-49cf-b541-282c9eb83398)
+
